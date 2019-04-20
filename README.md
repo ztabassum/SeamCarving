@@ -1,5 +1,5 @@
 # SeamCarving
-Implemented Seam Carving Algoritm.
+Implemented Seam Carving Algorithm.
 
 Seam Carving uses an energy function, in attempt to more intelligently remove unneccessary pixels when trying to resize, and retain the most important details of the picture.
 
